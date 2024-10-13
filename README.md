@@ -1,6 +1,6 @@
 # fizzbuzz three ways using C
 
-This is a fun little practice problem to start learning C. The template of this come from Kay Lack of [0DE5](https://www.0de5.net/). I left the text the template's README intact below.
+This is a fun little practice problem to start learning C. The template of this comes from Kay Lack of [0DE5](https://www.0de5.net/). I left the text to the template's README intact below.
 
 This is my first engagement with C. It's also my first taste of programming at "lower levels". I enjoy it quite a bit.
 
