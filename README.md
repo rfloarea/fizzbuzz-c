@@ -1,3 +1,11 @@
+# fizzbuzz three ways using C
+
+This is a fun little practice problem to start learning C. The template of this come from Kay Lack of [0DE5](https://www.0de5.net/). I left the text the template's README intact below.
+
+This is my first engagement with C. It's also my first taste of programming at "lower levels". I enjoy it quite a bit.
+
+---
+
 # Toy C Project Template
 
 This is a very simple template for a C project.
@@ -9,7 +17,7 @@ But if you're using C as a learning or hobby tool, this should suit you well.
 
 ## Quickstart
 
-You will need `make`, `clang` and `lldb` installed. 
+You will need `make`, `clang` and `lldb` installed.
 These are present by default on macOS, and on Ubuntu can be installed with
 `sudo apt install clang lldb`.
 
@@ -40,14 +48,14 @@ Note that a professional project would probably not use Make for all of these ta
 
 The project is structured as three files:
 
-* `src/main.c`, whose `main` function gets run as the executable, and should probably mostly call functions in `lib.c`.
-* `src/lib.c` where most of your implementation code should go.
-* `src/test.c`, whose `main` function gets run as the tests.
+- `src/main.c`, whose `main` function gets run as the executable, and should probably mostly call functions in `lib.c`.
+- `src/lib.c` where most of your implementation code should go.
+- `src/test.c`, whose `main` function gets run as the tests.
 
 My suggested workflow is:
 
-* Add functions to `lib.c`, verifying with tests in `test.c`.
-* Add code to `main.c` which calls functions in `lib.c`.
+- Add functions to `lib.c`, verifying with tests in `test.c`.
+- Add code to `main.c` which calls functions in `lib.c`.
 
 There is already some example code along these lines.
 
