@@ -4,6 +4,10 @@ This is a fun little practice problem to start learning C. The template of this 
 
 This is my first engagement with C. It's also my first taste of programming at "lower levels". I enjoy it quite a bit.
 
+## Questions:
+
+- How do we handle buffers of arbitrary size? Right now we are setting things to 1000. Which is fine. But I imagine a scenario where we'll have to handle some really large, unknown arrays. What then?
+
 ---
 
 # Toy C Project Template
